@@ -135,7 +135,7 @@ catch (InputMismatchException e) {
 ---
 
 ## 🖥️ Contoh Output
-(assets/image.png)
+
 ```
 === SISTEM PEMESANAN TIKET PESAWAT ===
 1. Pesan Tiket
@@ -158,3 +158,4 @@ Mata Kuliah: Pemrograman Berbasis Objek
 Program ini berhasil mengimplementasikan konsep OOP dalam Java dengan baik. Sistem mampu menangani input pengguna, melakukan validasi, serta menampilkan data tiket secara terstruktur.
 
 ---
+![Tampilan Program](assets/image.png)
